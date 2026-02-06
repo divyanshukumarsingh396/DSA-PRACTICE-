@@ -1,42 +1,156 @@
-#include <iostream>
-using namespace std;
+🔘 Data Structures and Algorithms in C++
 
-int main() {
-    int choice;
-    double num1, num2;
+This repository contains my practice and learning journey of Data Structures and Algorithms using C++.
 
-    cout << "----- Simple Calculator -----\n";
-    cout << "1. Addition\n";
-    cout << "2. Subtraction\n";
-    cout << "3. Multiplication\n";
-    cout << "4. Division\n";
-    cout << "Enter your choice (1-4): ";
-    cin >> choice;
 
-    cout << "Enter first number: ";
-    cin >> num1;
-    cout << "Enter second number: ";
-    cin >> num2;
+I created this repo to keep track of what I learn, practice coding questions, and revise concepts for interviews and placements. Most of the codes here are written in a simple way so that anyone learning DSA can understand them.
 
-    switch(choice) {
-        case 1:
-            cout << "Result: " << num1 + num2 << endl;
-            break;
-        case 2:
-            cout << "Result: " << num1 - num2 << endl;
-            break;
-        case 3:
-            cout << "Result: " << num1 * num2 << endl;
-            break;
-        case 4:
-            if(num2 != 0)
-                cout << "Result: " << num1 / num2 << endl;
-            else
-                cout << "Error! Division by zero not allowed." << endl;
-            break;
-        default:
-            cout << "Invalid choice!" << endl;
-    }
 
-    return 0;
-}
+Why this repository?
+I started learning DSA to improve my problem-solving skills and to prepare for coding interviews. Instead of just solving questions randomly, I decided to organize everything topic-wise in one place.
+
+🔘 This repository includes:
+
+✅ Basic to advanced DSA concepts
+✅ Clean and simple C++ implementations
+✅ Practice problems
+✅ Well-structured folders by topic
+✅ Interview-focused questions
+✅ Beginner-friendly code
+
+🔘 This repo helps me to:
+
+▪️Revise DSA concepts
+▪️Practice coding problems
+▪️Track my progress
+▪️Prepare for placements and interviews
+▪️What you will find here
+▪️This repository includes:
+▪️Basic to advanced DSA topics
+▪️Topic-wise practice codes
+▪️Common interview questions
+▪️Simple and readable C++ implementations
+▪️Use of STL where needed
+
+
+🔘 Topics Covered
+ 
+📌 1. Basics
+
+▪️Input/Output in C++
+▪️Time & Space Complexity
+▪️Recursion
+▪️Bit Manipulation
+
+📌 2. Arrays
+
+▪️Traversal
+▪️Searching
+▪️Sorting
+▪️Prefix Sum
+▪️Sliding Window
+▪️Two Pointer Technique
+
+📌 3. Strings
+
+▪️String operations
+▪️Palindrome problems
+▪️Pattern matching
+
+📌 4. Linked List
+
+▪️Singly Linked List
+▪️Doubly Linked List
+▪️Circular Linked List
+▪️Reversal
+▪️Cycle Detection
+
+📌 5. Stack
+
+▪️Implementation using array & linked list
+▪️Infix/Postfix/Prefix
+▪️Next Greater Element
+
+📌 6. Queue
+
+▪️Simple Queue
+▪️Circular Queue
+▪️Deque
+▪️Priority Queue
+
+📌 7. Recursion & Backtracking
+
+▪️Subsets
+▪️Permutations
+▪️N-Queens
+▪️Sudoku Solver
+
+📌 8. Trees
+
+▪️Binary Tree
+▪️Binary Search Tree
+▪️Tree Traversals
+▪️Height & Diameter
+
+📌 9. Heaps
+
+▪️Min Heap
+▪️Max Heap
+▪️Heap Sort
+▪️Priority Queue problems
+
+📌 10. Hashing
+
+▪️Hash Maps
+▪️Frequency counting
+▪️Set operations
+
+📌 11. Graphs
+
+▪️BFS
+▪️DFS
+▪️Topological Sort
+▪️Shortest Path Algorithms
+▪️Cycle Detection
+
+📌 12. Dynamic Programming
+
+▪️Memoization
+▪️Tabulation
+▪️Classic DP problems
+
+📂 Folder Structure
+
+DSA-PRACTICE-Cpp/
+│
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Recursion/
+├── Trees/
+├── Graphs/
+├── DP/
+└── Sorting/
+
+💻 Language Used
+
+▪️C++
+▪️STL (Standard Template Library)
+
+🛠 Requirements
+
+▪️Basic C++ knowledge
+▪️C++ compiler (GCC / CodeBlocks / VS Code)
+▪️Problem-solving mindset 😄
+
+🎯 Goal
+
+✔ Strengthen DSA concepts
+✔ Crack coding interviews
+✔ Improve logical thinking
+✔ Prepare for competitive programming
+
+📈 Progress
+This repository is regularly updated as I learn more concepts and solve more problems.
