@@ -13,7 +13,7 @@ void printnum(int n){
     
 }
 int main(){
-    printnum(12);
+    printnum(23);
 
     return 0;
 }
