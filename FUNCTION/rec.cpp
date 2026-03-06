@@ -3,7 +3,7 @@ using namespace std;
  
 void printnum(int n){
 
-    if(n==1){
+    if(n==0){
 
         cout<<" 1 \n";
         return ;
