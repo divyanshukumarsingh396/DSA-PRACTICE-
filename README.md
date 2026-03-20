@@ -1,156 +1,109 @@
-🔘 Data Structures and Algorithms in C++
+☕ Java Learning & DSA Repository
 
-This repository contains my practice and learning journey of Data Structures and Algorithms using C++.
+Welcome to my Java repository! 🚀
+This repo contains my journey of learning Java, Data Structures & Algorithms (DSA), and backend development concepts.
 
+---
 
-I created this repo to keep track of what I learn, practice coding questions, and revise concepts for interviews and placements. Most of the codes here are written in a simple way so that anyone learning DSA can understand them.
+📌 About
 
+This repository is dedicated to:
 
-Why this repository?
-I started learning DSA to improve my problem-solving skills and to prepare for coding interviews. Instead of just solving questions randomly, I decided to organize everything topic-wise in one place.
+- Learning Core Java concepts
+- Practicing Data Structures & Algorithms
+- Building a strong foundation for backend development
+- Preparing for coding interviews and placements
 
-🔘 This repository includes:
+---
 
-✅ Basic to advanced DSA concepts
-✅ Clean and simple C++ implementations
-✅ Practice problems
-✅ Well-structured folders by topic
-✅ Interview-focused questions
-✅ Beginner-friendly code
+🧠 Topics Covered
 
-🔘 This repo helps me to:
+🔹 Core Java
 
-▪️Revise DSA concepts
-▪️Practice coding problems
-▪️Track my progress
-▪️Prepare for placements and interviews
-▪️What you will find here
-▪️This repository includes:
-▪️Basic to advanced DSA topics
-▪️Topic-wise practice codes
-▪️Common interview questions
-▪️Simple and readable C++ implementations
-▪️Use of STL where needed
+- Variables & Data Types
+- Operators
+- Conditional Statements (if-else, switch)
+- Loops (for, while, do-while)
+- Functions / Methods
+- Object-Oriented Programming (OOP)
+  - Classes & Objects
+  - Inheritance
+  - Polymorphism
+  - Encapsulation
+  - Abstraction
 
+---
 
-🔘 Topics Covered
- 
-📌 1. Basics
+🔹 Data Structures & Algorithms (DSA)
 
-▪️Input/Output in C++
-▪️Time & Space Complexity
-▪️Recursion
-▪️Bit Manipulation
+- Arrays
+- Strings
+- Linked List
+- Stack & Queue
+- Recursion
+- Trees
+- Graphs
+- Sorting & Searching Algorithms
 
-📌 2. Arrays
+---
 
-▪️Traversal
-▪️Searching
-▪️Sorting
-▪️Prefix Sum
-▪️Sliding Window
-▪️Two Pointer Technique
+🔹 Problem Solving
 
-📌 3. Strings
+- Basic coding problems
+- Interview questions
+- Optimized solutions
 
-▪️String operations
-▪️Palindrome problems
-▪️Pattern matching
+---
 
-📌 4. Linked List
+🛠️ Tools & Technologies
 
-▪️Singly Linked List
-▪️Doubly Linked List
-▪️Circular Linked List
-▪️Reversal
-▪️Cycle Detection
+- Java (JDK)
+- IDE: VS Code / IntelliJ IDEA / Eclipse
+- Git & GitHub
 
-📌 5. Stack
-
-▪️Implementation using array & linked list
-▪️Infix/Postfix/Prefix
-▪️Next Greater Element
-
-📌 6. Queue
-
-▪️Simple Queue
-▪️Circular Queue
-▪️Deque
-▪️Priority Queue
-
-📌 7. Recursion & Backtracking
-
-▪️Subsets
-▪️Permutations
-▪️N-Queens
-▪️Sudoku Solver
-
-📌 8. Trees
-
-▪️Binary Tree
-▪️Binary Search Tree
-▪️Tree Traversals
-▪️Height & Diameter
-
-📌 9. Heaps
-
-▪️Min Heap
-▪️Max Heap
-▪️Heap Sort
-▪️Priority Queue problems
-
-📌 10. Hashing
-
-▪️Hash Maps
-▪️Frequency counting
-▪️Set operations
-
-📌 11. Graphs
-
-▪️BFS
-▪️DFS
-▪️Topological Sort
-▪️Shortest Path Algorithms
-▪️Cycle Detection
-
-📌 12. Dynamic Programming
-
-▪️Memoization
-▪️Tabulation
-▪️Classic DP problems
+---
 
 📂 Folder Structure
 
-DSA-PRACTICE-Cpp/
-│
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Recursion/
-├── Trees/
-├── Graphs/
-├── DP/
-└── Sorting/
+Java-DSA/
+│── Core-Java/
+│── DSA/
+│── Problems/
+│── Projects/
 
-💻 Language Used
+---
 
-▪️C++
-▪️STL (Standard Template Library)
+🚀 Goals
 
-🛠 Requirements
+- ✅ Master Java fundamentals
+- ✅ Strengthen DSA concepts
+- ✅ Solve coding problems regularly
+- ⏳ Prepare for technical interviews
 
-▪️Basic C++ knowledge
-▪️C++ compiler (GCC / CodeBlocks / VS Code)
-▪️Problem-solving mindset 😄
+---
 
-🎯 Goal
+📈 Progress
 
-✔ Strengthen DSA concepts
-✔ Crack coding interviews
-✔ Improve logical thinking
-✔ Prepare for competitive programming
+- [x] Java Basics
+- [ ] OOP Concepts
+- [ ] DSA Fundamentals
+- [ ] Advanced DSA
+
+---
+
+🤝 Contribution
+
+This is a personal learning repository, but suggestions and improvements are always welcome!
+
+---
+
+📬 Connect with Me
+
+Feel free to connect or give feedback! 😊
+
+---
+
+⭐ If you find this repo useful, don’t forget to star it!✔ Prepare for competitive programming
 
 📈 Progress
 This repository is regularly updated as I learn more concepts and solve more problems.
