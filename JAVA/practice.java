@@ -2,18 +2,13 @@ public class practice {
 
     public static void main (String[] args){
 
-        int arr[] = {8, 42, 83, 54,25};
-        int max = arr[0];
-
+        int arr[] = {10, 20, 30, 40, 50};
     for(int i=0; i<arr.length; i++){
-        if(max<arr[i]){
-            max = arr[i];
+            System.out.print(arr[i] + " ");
         }
-        else{
-            max = max;
+        System.out.println("\nReversed Array:");
+        for(int i=arr.length-1; i>=0; i--){
+            System.out.print(arr[i] + " ");
         }
-
-    }
-    System.out.println("The maximum element is: " + max);
    }
 }
