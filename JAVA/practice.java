@@ -2,14 +2,18 @@ public class practice {
 
     public static void main (String[] args){
 
-        int arr[] = {1, 2, 3, 4, 5};
-        int sum = 0;
-    
+        int arr[] = {8, 42, 83, 54,25};
+        int max = arr[0];
 
     for(int i=0; i<arr.length; i++){
+        if(max<arr[i]){
+            max = arr[i];
+        }
+        else{
+            max = max;
+        }
 
-        sum += arr[i];
     }
-    System.out.println("The sum of the array : " + sum);
+    System.out.println("The maximum element is: " + max);
    }
 }
